@@ -1,8 +1,8 @@
 ---
-title: 西安之旅Day1
+title: 西安之旅Day2
 author: Caochi
-date: '2019-05-01'
-slug: 西安之旅day1
+date: '2019-05-02'
+slug: 西安之旅day2
 categories: []
 tags: []
 ---
@@ -24,4 +24,4 @@ Day 2
 
 乐乐茶很好喝，绿豆糕很好吃。
 
-![](C:/Users/Liuye/Pictures/lelecha.jpg)
+![](/post/2019-05-02-西安之旅day2_files/lelecha.jpg){width=400px height=200px}

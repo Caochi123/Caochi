@@ -1,8 +1,8 @@
 ---
-title: 西安之旅Day2
+title: 西安之旅Day1
 author: Caochi
-date: '2019-05-02'
-slug: 西安之旅day2
+date: '2019-05-01'
+slug: 西安之旅day1
 categories: []
 tags: []
 ---
@@ -24,5 +24,5 @@ Day 1
 
 永兴坊没什么好玩的。
 
-![](C:/Users/Liuye/Pictures/roujiamo.jpg)
+![](/post/2019-05-01-西安之旅day1_files/roujiamo.jpg)
 
